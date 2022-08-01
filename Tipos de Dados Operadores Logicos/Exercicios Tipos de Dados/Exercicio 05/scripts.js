@@ -1,0 +1,1 @@
+console.log(400 * "Não e numero")
